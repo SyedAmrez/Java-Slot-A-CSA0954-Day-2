@@ -45,7 +45,7 @@ public class lcmgcd
 				}	
     			}
 			lcm = (n1*n2*n3)/gcd;
-      System.out.println("LCM = "+lcm);
+      			System.out.println("LCM = "+lcm);
 			System.out.println("GCD= "+gcd);
 		}
 
