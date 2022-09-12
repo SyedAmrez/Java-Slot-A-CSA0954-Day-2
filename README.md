@@ -1,7 +1,7 @@
 # Java-Slot-A-CSA0954-Day-2
 
 1.Reverse number.
-2.LCN and GCD.
+2.LCM and GCD.
 3.Pascal triangle.
 4.Even Sum of Fibonacci Series Till number N.
 5.print the numbers from M to N by skipping K numbers in between.
