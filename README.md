@@ -18,7 +18,7 @@
 
 9.To print the first n perfect numbers.
 
-10.Grading student.
+10.Grading student
 
 11.To create a list of all numbers in a range which are perfect squares and the sum of the digits of the number is less than 10.
 
